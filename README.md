@@ -1,6 +1,6 @@
 <div align="center">
 
-# Polymarket Copy-Trading Bot
+# Polymarket copy (team staging)-Trading Bot
 
 ### *"CTRL+C, CTRL+TRADE"*
 
@@ -27,7 +27,7 @@
 | **Poll** | On your schedule (`COPY_POLL_INTERVAL_MS`) |
 | **Copy** | Similar orders from *your* wallet, with multiplier & max size limits |
 
-If you've been looking for **polymarket bot**, **polymarket copy trading**, **polymarket trading bot typescript**, or **clob client bot** — you're in the right repo.
+If you've been looking for **polymarket bot**, **Polymarket copy (team staging) trading**, **polymarket trading bot typescript**, or **clob client bot** — you're in the right repo.
 
 ---
 
