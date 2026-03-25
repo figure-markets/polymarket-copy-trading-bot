@@ -1,11 +1,11 @@
-﻿{
+{
   "name": "polymarket-copy-trading-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/macmt/polymarket-arbitrage-bot"
   },
-  "description": "Polymarket copy trading bot — replicate a target trader's activity in TypeScript/Node",
+  "description": "Polymarket copy trading bot � replicate a target trader's activity in TypeScript/Node",
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
