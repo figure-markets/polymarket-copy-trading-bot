@@ -71,7 +71,7 @@ Pick a parent folder on your machine, open a terminal there, then:
 **HTTPS (works everywhere, no SSH setup):**
 
 ```bash
-clone the repo
+git clone https://github.com/figure-markets/polymarket-copy-trading-bot.git
 cd polymarket-copy-trading-bot
 ```
 
